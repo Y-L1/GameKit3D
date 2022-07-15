@@ -1,0 +1,4 @@
+repository "gamekit3d_art@ssl://wechat_os_qy0z17xxj0cown_yq6ej389e0@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
